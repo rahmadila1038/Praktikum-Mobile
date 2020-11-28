@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmsListenerApp</string>
+    <string name="ini_aplikasi_sms_reveiver">ini aplikasi sms reveiver</string>
+    <string name="cek_sms_permission">cek sms permission</string>
+    <string name="download_file">Download a File</string>
+    <string name="woy_main_keisini_jadi_ngga_sekaranf_yak">woy, main keisini jadi ngga? sekaranf yak</string>
+    <string name="coming_from">coming_from</string>
+    <string name="tutup">tutup</string>
+    <string name="incoming_message">Incoming Message</string>
+</resources>
