@@ -1,0 +1,6 @@
+com/example/deepnavigation/DetailActivity.java
+ com.example.deepnavigation.DetailActivity
+com/example/deepnavigation/MainActivity.java
+ com.example.deepnavigation.MainActivity
+com/example/deepnavigation/BuildConfig.java
+ com.example.deepnavigation.BuildConfig
